@@ -1,16 +1,43 @@
-## Hi there 👋
+# Abdullah Nadeem
 
-<!--
-**Abz119/Abz119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software & AI engineer building reliable intelligent systems.**
 
-Here are some ideas to get you started:
+I build end-to-end products across native iOS, backend APIs, data systems and applied AI. I am currently building **WakeAI**, a proactive behavioural intelligence product designed to turn everyday signals into timely, useful guidance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- **AI systems:** LLM integrations, agent workflows, human-in-the-loop controls, request validation and safety guardrails
+- **Backend and data:** Python, FastAPI, REST APIs, PostgreSQL, Supabase, schema design and migrations
+- **Product engineering:** Swift, SwiftUI, iOS widgets and thoughtful user experiences
+
+## Selected systems
+
+### WakeAI
+
+A native iOS product backed by AI services and an authenticated data layer. My work spans product architecture, SwiftUI implementation, backend integration, widgets, privacy and operational reliability.
+
+### Evidence-led market discovery platform
+
+A FastAPI and PostgreSQL system for turning sourced research, hypotheses, discovery conversations and outcomes into structured evidence. It includes migrations, tests, idempotent import pipelines, a review dashboard and explicit human approval boundaries.
+
+### Multi-practice AI receptionist
+
+A configurable conversational assistant for after-hours enquiries, with per-practice knowledge, a shared behaviour layer and a web-embeddable interface.
+
+> Production repositories, customer data and proprietary WakeAI logic remain private. Public-safe architecture, demos and selected components will be published separately.
+
+## Engineering principles
+
+- Build measurable systems, not thin model wrappers
+- Treat security and privacy as part of the architecture
+- Separate sourced facts from model-generated hypotheses
+- Keep humans in control of consequential actions
+- Document trade-offs, failure modes and operational boundaries
+
+## Core technologies
+
+`Swift` · `SwiftUI` · `Python` · `FastAPI` · `PostgreSQL` · `Supabase` · `REST APIs` · `LLM systems`
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdullahnadeem17)
