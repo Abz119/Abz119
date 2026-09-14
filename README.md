@@ -1,4 +1,4 @@
-# Abdullah Nadeem
+                # Abdullah Nadeem
 
 **Software & AI engineer building reliable intelligent systems.**
 
@@ -46,3 +46,9 @@ Reliable scheduled and event-driven workflows with idempotent imports, retries, 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/abdullahnadeem17)
+
+## Product demo
+
+See WakeAI in action at https://www.wakeai.online.
+
+The public site shows the product direction and selected visuals; this repository remains a documentation-first engineering case study and does not contain the private production codebase.
