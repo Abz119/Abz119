@@ -12,9 +12,9 @@ I build end-to-end products across native iOS, backend APIs, data systems and ap
 
 ## Selected systems
 
-### WakeAI
+### [WakeAI](https://github.com/Abz119/wakeai-engineering)
 
-A native iOS product backed by AI services and an authenticated data layer. My work spans product architecture, SwiftUI implementation, backend integration, widgets, privacy and operational reliability.
+A native iOS product backed by AI services and an authenticated data layer. My work spans product architecture, SwiftUI implementation, backend integration, widgets, privacy and operational reliability. [Explore the public engineering case study](https://github.com/Abz119/wakeai-engineering) for its architecture, shipped capabilities, privacy boundaries and key technical decisions.
 
 ### Evidence-led market discovery platform
 
@@ -24,7 +24,7 @@ A FastAPI and PostgreSQL system for turning sourced research, hypotheses, discov
 
 A configurable conversational assistant for after-hours enquiries, with per-practice knowledge, a shared behaviour layer and a web-embeddable interface.
 
-> Production repositories, customer data and proprietary WakeAI logic remain private. Public-safe architecture, demos and selected components will be published separately.
+> Production repositories, customer data and proprietary WakeAI logic remain private. Public material is deliberately limited to safe architecture, demos, documentation and selected components.
 
 ## Engineering principles
 
